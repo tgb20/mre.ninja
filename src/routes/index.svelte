@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>MRE Ninja</title>
+</svelte:head>
+
 <main class="h-screen bg-zinc-800">
   <section class="max-w-2xl mx-auto text-center flex flex-col items-center">
     <img class="max-w-xs" src='/images/mreninjalogo.png' alt="MRE Ninja Logo" />

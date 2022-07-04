@@ -1,10 +1,6 @@
-<script>
-  import mreNinjaLogo from "./assets/mreninjalogo.png";
-</script>
-
 <main class="h-screen bg-zinc-800">
   <section class="max-w-2xl mx-auto text-center flex flex-col items-center">
-    <img class="max-w-xs" src={mreNinjaLogo} alt="MRE Ninja Logo" />
+    <img class="max-w-xs" src='/images/mreninjalogo.png' alt="MRE Ninja Logo" />
     <h1 class="text-4xl text-white pt-6">MRE Ninja</h1>
     <h2 class="text-2xl text-white pt-6">Fast and simple MRE hosting</h2>
     <div class="bg-zinc-700 w-1/2 mt-6 rounded-lg">

@@ -2,4 +2,4 @@
 home: true
 ---
 
-# Hello vuepress
+# Hello mre.ninja
